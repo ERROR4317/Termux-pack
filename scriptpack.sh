@@ -19,6 +19,8 @@ apt install python2
 echo install python2
 "###################"
 echo Arif-tech termux suscribe channel
+figlet D-Tect
+git clone https://github.com/shawarkhanethicalhacker/D-TECT
 figlet red_hawk
 git clone https://github.com/Tuhinshubhra/RED_HAWK.git
 figlet credmap
