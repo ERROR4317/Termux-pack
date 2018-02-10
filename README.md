@@ -1,4 +1,4 @@
 # termux-pack
 #
-# https://github.com/Arif-Tech/Termux-pack.git
+# https://github.com/ERROR4317/Termux-pack.git
 
